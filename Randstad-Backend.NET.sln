@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRegistrationSystem.API", "EmployeeRegistrationSystem\EmployeeRegistrationSystem.API\EmployeeRegistrationSystem.API.csproj", "{C3412F7F-3EC0-4D90-87F5-1DCC85C577BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmployeeRegistrationSystem", "EmployeeRegistrationSystem", "{D3099708-73E2-44FB-A6DE-0B020B9CCCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3412F7F-3EC0-4D90-87F5-1DCC85C577BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3412F7F-3EC0-4D90-87F5-1DCC85C577BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3412F7F-3EC0-4D90-87F5-1DCC85C577BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3412F7F-3EC0-4D90-87F5-1DCC85C577BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C3412F7F-3EC0-4D90-87F5-1DCC85C577BA} = {D3099708-73E2-44FB-A6DE-0B020B9CCCCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EE22EE-C701-4E0B-AC3B-4080B8641E0F}
+	EndGlobalSection
+EndGlobal
